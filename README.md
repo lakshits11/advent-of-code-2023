@@ -33,5 +33,6 @@ _Some files have input taken already in code, so no need to pass `< input.txt`. 
 | [Day 3](https://adventofcode.com/2023/day/3) |   ⭐   |   ⭐   |
 | [Day 4](https://adventofcode.com/2023/day/4) |   ⭐   |   ⭐   |
 | [Day 5](https://adventofcode.com/2023/day/5) |   ⭐   |   ⭐   |
+| [Day 6](https://adventofcode.com/2023/day/6) |   ⭐   |   ⭐   |
 
 <!--- advent_readme_stars table --->
